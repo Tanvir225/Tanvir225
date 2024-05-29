@@ -1,6 +1,6 @@
 ![Mern Satck Developer](https://i.ibb.co/7y5pBNW/Fiverr-Gig-Image-Design-01.jpg)
-## Hi there 👋, I'm Abdur Rahman
-##### Mern Satck Developer
+# Hi there 👋, I'm Abdur Rahman
+#### Mern Satck Developer
 
 
 I'm a web developer & front‑end designer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
