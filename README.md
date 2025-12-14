@@ -33,7 +33,7 @@ I am currently working as a **IT & Reservation Executive** at Flynas Airlines. A
 * **👯 I’m looking to collaborate on:** Full-stack development projects and Data Visualization/EDA case studies on GitHub.
 * **🤔 I’m looking for help with:** Advanced Web design and development patterns.
 * **💬 Ask me about:** MERN Stack, Front-End Development, and Data Analysis with Seaborn.
-* **📫 How to reach me:** [https://bumpy-low.surge.sh](https://bumpy-low.surge.sh)
+* **📫 How to reach me:** [linkedin.com/in/a-rahaman](https://www.linkedin.com/in/a-rahaman)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanvir225)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-abdur-rahman-011445234/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abdurrahman.tanvir.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bumpy-low.surge.sh)  
 
