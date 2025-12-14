@@ -23,7 +23,7 @@ I am currently working as a **IT & Reservation Executive** at Flynas Airlines. A
 ## 🌱 Continuous Learning
 
 * **Currently Learning:** Machine Learning (to build scalable, model applications)
-* **Recent Focus:** Deepening my expertise in **statistical data visualization** (like the **Box Plot** you've seen) to derive insights from application data. 
+* **Recent Focus:** Deepening my expertise in **statistical data visualization** (like the **joint Plot** you've seen) to derive insights from application data. 
 
 ![Image of joint plot](https://i.ibb.co.com/CpTgcCXT/output.png)
 
